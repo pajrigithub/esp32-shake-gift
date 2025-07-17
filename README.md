@@ -51,6 +51,7 @@
    - Wire
    - MPU6050 (by Ewan Leng)
 4. Upload ke ESP32 dan sambungkan sesuai wiring.
+5. jangan lupa cek esp32-st7789-gambar untuk setup librarynya supaya tampil
 
 ## 📸 Contoh Gambar
 
